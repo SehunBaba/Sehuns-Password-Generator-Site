@@ -1,0 +1,50 @@
+/* Sehun Babatunde */
+
+.baseSection {
+    text-align: center;
+    /* position: fixed;
+    top: 30%;
+    left: 45%;
+    margin-top: -50px;
+    margin-left: -100px;
+ */
+}
+
+
+
+.h1 {
+    text-align: center;
+    
+} 
+
+#generatedPasswordTextStringBox {
+    text-align: center;
+    /* width: 400px; */
+    /* max-height: 200px;  */
+   
+} 
+
+
+#passwordLengthSelect{
+    text-align: center;
+}
+
+
+/*
+#numbersInPasswordCheckbox, #numbersInPasswordLabel{
+    text-align: center;
+    align-content: center;
+   
+} 
+
+#symbolsInPasswordCheckbox, #symbolsInPasswordLabel {
+    text-align: center;
+    align-content: center;
+   
+}  
+/
+
+body {
+    background-color: black;
+    color: white;
+  }
